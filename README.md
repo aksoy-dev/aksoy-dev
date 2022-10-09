@@ -1,7 +1,6 @@
 👋 Hi there
 - 👀 I’m currently working on web programming with PHP, İmage processing with Python, Data processing with Python, Machine learning with Python, Cyber security
 - 🌱 I’m currently learning React
-- 💬 You can ask me for help with PHP, Python
 - 📫 How to reach me: Mail on info@aksoyfirat.net
 
 <!---
